@@ -1,0 +1,17 @@
+{
+    "name": "UniBufTests",
+    "references": [
+        "GUID:a573fee90ac3248f6ab692fe52f900c3"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
